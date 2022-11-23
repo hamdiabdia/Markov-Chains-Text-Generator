@@ -27,14 +27,14 @@ pip3 install numpy
 Here are some of the results from the program:
 
 ```
-Example
+Example: I said. Now kiss away from love to camp now! Get the dragon's keep of here.
 ```
-I said. Now kiss away from love to camp now! Get the dragon's keep of here.
+
 ```
-Example
+Example: You gotta stick together. You think I am you ain't never seen a gaint.
 ```
-You gotta stick together. You think I am you ain't never seen a gaint.
+
 ```
-Example
+Example: Everybody loves cakes! Cakes have to stay, but a wonderful, romantic moment? Yeah, well, I couldn't leave them a delivery boy.
 ```
-Everybody loves cakes! Cakes have to stay, but a wonderful, romantic moment? Yeah, well, I couldn't leave them a delivery boy.
+
