@@ -29,11 +29,12 @@ Here are some of the results from the program:
 ```
 Example
 ```
-
+I said. Now kiss away from love to camp now! Get the dragon's keep of here.
 ```
 Example
 ```
-
+You gotta stick together. You think I am you ain't never seen a gaint.
 ```
 Example
 ```
+Everybody loves cakes! Cakes have to stay, but a wonderful, romantic moment? Yeah, well, I couldn't leave them a delivery boy.
